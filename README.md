@@ -1,3 +1,3 @@
 # young_web
 
-index.html -> google 
+index.html = google clone coding
